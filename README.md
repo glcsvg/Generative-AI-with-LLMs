@@ -22,6 +22,8 @@ Generative AI use cases, project lifecycle, and model pre-training
 
 [Lab 1 - Generative AI Use Case: Summarize Dialogue](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/blob/main/Week-1/Lab_1_summarize_dialogue.ipynb)
 
+Gogogle colab
+
 [Week 1 quiz](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/blob/main/Week-1/Week-1_Quiz.md)
 
 ## Week 2
